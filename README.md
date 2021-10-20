@@ -1,5 +1,6 @@
 # Test_0_checks_JC
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <p align="center">
 <img src="https://github.com/juan-pineda/Objetos_ejercicio/blob/main/GLT_Logistics.png" width="200"> 
