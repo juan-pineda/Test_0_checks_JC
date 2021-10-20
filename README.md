@@ -8,8 +8,6 @@
  </p>
  
  
-[![homepage][1]][2]
-
 [1]:  https://github.com/juan-pineda/Objetos_ejercicio/blob/main/GLT_Logistics.png
 [2]:  https://twitter.com/GLT_INC
 
